@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"zh-CN","frontmatter":{"lang":"zh-CN","home":true,"heroText":"Hello","tagline":"欢迎来到我的Blog","footer":"YIQI Licensed | Copyright © 2018-present Evan You"},"headers":[],"git":{},"filePathRelative":"README.md"}');export{e as data};

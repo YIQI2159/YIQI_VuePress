@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-63860e20","path":"/rabbitmq/a.html","title":"RabbitMQ","lang":"zh-CN","frontmatter":{"title":"RabbitMQ"},"headers":[],"git":{},"filePathRelative":"rabbitmq/a.md"}');export{t as data};

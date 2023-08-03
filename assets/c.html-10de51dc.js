@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5cb2aba4","path":"/rabbitmq/c.html","title":"架构","lang":"zh-CN","frontmatter":{"title":"架构"},"headers":[],"git":{},"filePathRelative":"rabbitmq/c.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-44ced2f2","path":"/rabbitmq/j.html","title":"第四种交换机类型","lang":"zh-CN","frontmatter":{"title":"第四种交换机类型"},"headers":[],"git":{},"filePathRelative":"rabbitmq/j.md"}');export{t as data};

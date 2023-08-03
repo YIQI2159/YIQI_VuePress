@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d6f6f4b6","path":"/redis/a.html","title":"安装","lang":"zh-CN","frontmatter":{"title":"安装"},"headers":[{"level":2,"title":"Ubuntu配置","slug":"ubuntu配置","link":"#ubuntu配置","children":[]},{"level":2,"title":"启动","slug":"启动","link":"#启动","children":[]}],"git":{},"filePathRelative":"redis/a.md"}');export{t as data};

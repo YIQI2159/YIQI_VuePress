@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4ba2356e","path":"/rabbitmq/h.html","title":"路由模式","lang":"zh-CN","frontmatter":{"title":"路由模式"},"headers":[],"git":{},"filePathRelative":"rabbitmq/h.md"}');export{t as data};

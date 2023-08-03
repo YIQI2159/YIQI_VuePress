@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-416521b4","path":"/rabbitmq/k.html","title":"集群搭建","lang":"zh-CN","frontmatter":{"title":"集群搭建"},"headers":[],"git":{},"filePathRelative":"rabbitmq/k.md"}');export{t as data};

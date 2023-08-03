@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-527597ea","path":"/rabbitmq/f.html","title":"工作队列模式","lang":"zh-CN","frontmatter":{"title":"工作队列模式"},"headers":[],"git":{},"filePathRelative":"rabbitmq/f.md"}');export{t as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as _,a as e}from"./app-5412e4fd.js";const c="/YIQI_VuePress/image/ly.jpg",o={},n=e("p",null,[e("img",{src:c,alt:"image"})],-1),a=[n];function r(i,l){return s(),_("div",null,a)}const d=t(o,[["render",r],["__file","index.html.vue"]]);export{d as default};
